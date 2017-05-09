@@ -1,13 +1,15 @@
 {
   "name": "feed",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Feed is a RSS and Atom feed generator for Node.js, making content syndication simple and intuitive!",
   "homepage": "http://projets.jpmonette.net/en/feed",
   "author": "Jean-Philippe Monette <contact@jpmonette.net>",
   "contributors": [
     {
       "name": "Pierre Galvez",
-      "email": "contact@pierre-galvez.fr"
+      "email": "contact@pierre-galvez.fr",
+      "name": "Nassgul",
+      "email": "nassim@godzilist.com"
     }
   ],
   "license": "MIT",
